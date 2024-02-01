@@ -5,7 +5,7 @@
 ```json
 {
   "name": "Marius",
-  "title": Senior Python Developer,
+  "title": "Senior Python Developer",
   "experience": "10 years",
   "skills": ["Python", "Django", "FastAPI", "REST API", "Backend", "Pandas", "AWS", "Docker", "Kubernetes", "Kafka"],
 }
@@ -14,5 +14,5 @@
 
 About me
 - 🌍 I build meaningful software for companies world-wide
-- 💻 I highly love Django and FastAPI
+- 💻 I highly love Django and FastAPI frameworks
 

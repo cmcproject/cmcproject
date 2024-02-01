@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**cmcproject/cmcproject** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p style="text-align:left;">:man_technologist: Senior Python Developer</p>
 
-Here are some ideas to get you started:
+```json
+{
+  "name": "Marius",
+  "title": Senior Python Developer,
+  "experience": "10 years",
+  "skills": ["Python", "Django", "FastAPI", "REST API", "Backend", "Pandas", "AWS", "Docker", "Kubernetes", "Kafka"],
+}
+```
+[![github contribution grid snake animation](https://raw.githubusercontent.com/cmcproject/cmcproject/main/github-contribution-grid-snake.svg)](https://github.com/cmcproject)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About me
+- 🌍 I build meaningful software for companies world-wide
+- 💻 I highly love Django and FastAPI
+

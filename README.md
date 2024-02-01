@@ -6,7 +6,7 @@
 {
   "name": "Marius",
   "title": "Senior Python Developer",
-  "experience": "10 years",
+  "experience": "9 years",
   "skills": ["Python", "Django", "FastAPI", "REST API", "Backend", "Pandas", "AWS", "Docker", "Kubernetes", "Kafka"],
 }
 ```
